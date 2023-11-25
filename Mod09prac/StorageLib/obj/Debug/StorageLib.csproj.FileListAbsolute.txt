@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\StorageLib\bin\Debug\StorageLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\StorageLib\bin\Debug\StorageLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\StorageLib\obj\Debug\StorageLib.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\StorageLib\obj\Debug\StorageLib.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\StorageLib\obj\Debug\StorageLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\StorageLib\obj\Debug\StorageLib.pdb

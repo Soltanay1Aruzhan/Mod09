@@ -1,0 +1,10 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\bin\Debug\Mod09Dz.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\bin\Debug\Mod09Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\bin\Debug\Mod09Dz.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\bin\Debug\EmployeeLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\bin\Debug\EmployeeLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\obj\Debug\Mod09Dz.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\obj\Debug\Mod09Dz.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\obj\Debug\Mod09Dz.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\obj\Debug\Mod09Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09Dz\Mod09Dz\obj\Debug\Mod09Dz.pdb

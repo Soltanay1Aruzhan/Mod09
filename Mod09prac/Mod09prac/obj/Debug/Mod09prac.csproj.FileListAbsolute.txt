@@ -1,0 +1,10 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\bin\Debug\Mod09prac.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\bin\Debug\Mod09prac.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\bin\Debug\Mod09prac.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\bin\Debug\StorageLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\bin\Debug\StorageLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\obj\Debug\Mod09prac.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\obj\Debug\Mod09prac.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\obj\Debug\Mod09prac.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\obj\Debug\Mod09prac.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod09prac\Mod09prac\obj\Debug\Mod09prac.pdb
